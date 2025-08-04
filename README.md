@@ -79,7 +79,7 @@ DAX formulas
 ## Dashboard Snapshot
 
 ![Adventure Dashboard1](https://github.com/user-attachments/assets/e522ca5b-97c3-4622-90dc-1e191083eddf)
-![Adventure Dashboard2](https://github.com/user-attachments/assets/e522ca5b-97c3-4622-90dc-1e191083eddf)
+![Adventure Dashboard2](https://github.com/user-attachments/assets/d81f97ef-d955-4222-a587-11bfa664a53f)
 
 
 ---
